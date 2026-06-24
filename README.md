@@ -1,2 +1,28 @@
-# bf7e5365-payroll-benefits-competitor
-The fastest way to automate a multi-tool business process in an afternoon. No setup fees. No learning curve.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Payroll &amp; Benefits Competitor Monitoring And Alert
+# Payroll & Benefits Competitor Monitoring and Alert N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B67sL7r12k4aNObzScZB3K)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B67sL7r12k4aNObzScZB3K)
+
